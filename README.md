@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHIVAPRASAD NUNE</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Proffesional Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaprasad0108&label=Profile%20views&color=0e75b6&style=flat" alt="shivaprasad0108" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **TODO PROJECT**
+- 🔭 I’m currently working on **Pizza_Sales_Analysis**
 
-- 🌱 I’m currently learning **Fullstack Python**
+- 🌱 I’m currently Working as **Data Analyst**
 
-- 👯 I’m looking to collaborate on **any python project**
+- 👯 I’m looking to collaborate on **Business Analysis and Data Analysis Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivaprasad0108](https://github.com/Shivaprasad0108)
 
-- 💬 Ask me about **Python,HTML,CSS,Bootstrap**
+- 💬 Ask me about **Python,SQL,SQL Server and Power BI**
 
 - 📫 How to reach me **shivaprasadnune2022@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@shivaprasadnune1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivaprasadnune1" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shivaprasad0108" target="blank">Linkdien<img align="center" 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
