@@ -7,7 +7,7 @@ Hi there! I'm a passionate **Data Analyst** with hands-on experience in turning 
 
 ## 💼 About Me
 - 📊 Transforming raw data into meaningful insights
-- 🤝 Open to collaborating on data analysis & dashboard projects
+- 🤝 Open to collaborating on data analysis & dashboard projects 
 - 🌱 Always learning and exploring new tools in the data ecosystem
 
 ---
