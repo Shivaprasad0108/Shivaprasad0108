@@ -3,6 +3,8 @@
 Hi there! I'm a passionate **Data Analyst** with hands-on experience in turning data into insights using a variety of tools and technologies. I enjoy cleaning, visualizing, and making sense of messy data!
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+
+
 ## 💼 About Me
 - 📊 Transforming raw data into meaningful insights
 - 🤝 Open to collaborating on data analysis & dashboard projects
