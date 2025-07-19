@@ -46,7 +46,7 @@ Hi there! I'm a passionate **Data Analyst** with hands-on experience in turning 
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](www.linkedin.com/in/shivaprasad0108)
-- 📧 Email: shivaprasadnune2022@example.com
+- 📧 Email: shivaprasadnune2022@gmail.com
 
 ---
 
